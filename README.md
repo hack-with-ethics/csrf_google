@@ -1,7 +1,7 @@
 # csrf_google
 Hello Hackers ... and Programmers
 
-Vulnerable csrf.. In Google Login/Signup
+Vulnerable csrf.. In Google Login[2 Factor Auth]
 
 which allows modify the device Name ! 
 That the attacker can mount a url that gets hacked or redirect to Malware Site
